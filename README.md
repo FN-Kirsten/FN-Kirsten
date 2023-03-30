@@ -4,4 +4,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=FN-Kirsten&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4g7fylyxwwj3rb80hkz5ozjtj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 [![](https://visitcount.itsvg.in/api?id=FN-Kirsten&icon=9&color=5)](https://visitcount.itsvg.in)
